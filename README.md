@@ -1,5 +1,5 @@
 # 📊 Proyecto_Infracciones_SITP  
-Este proyecto se realiza mediante la metodología CRISP-DM, contiene un análisis descriptivo de la base de datos de infracciones del SITP de los años 2019, 2020 y primer semestre del 2021. Su objetivo principal es disminuir la tasa de infracciones en este.
+Este proyecto se realiza mediante la metodología CRISP-DM, contiene un análisis descriptivo de la base de datos de infracciones del SITP de los años 2019, 2020 y primer semestre del 2021. Su objetivo principal es disminuir la tasa de infracciones en el sistema integrado de transporte masivo de la ciudad de Bogotá - Colombia.
 
 ### Integrantes
 * Nidian Andrea Abella Vergara  -  Administradora de empresas 
