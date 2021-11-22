@@ -13,3 +13,5 @@ Este proyecto se realiza mediante la metodología CRISP-DM, contiene un análisi
 
 ***
 Nota: Este Proyecto se realiza con fines netamente academicos y las bases de datos asociadas se encuentran anonimizadas directamente por la entidad.
+
+$ Git
