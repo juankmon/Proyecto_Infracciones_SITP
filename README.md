@@ -12,6 +12,6 @@ Este proyecto se realiza mediante la metodología CRISP-DM, contiene un análisi
 * [Bases de datos SITP](https://konradlorenzedu-my.sharepoint.com/:f:/g/personal/juanc_moralesm_konradlorenz_edu_co/Ek7074TpYstMvPiulldxAK8B6JIIuaEA5lprIU-13JUi6w?e=EhU5c3 " Bases SITP").
 
 ***
-Nota: Este Proyecto se realiza con fines netamente academicos y las bases de datos asociadas se encuentran anonimizadas directamente por la entidad.
+**Nota:** Este Proyecto se realiza con fines netamente academicos y las bases de datos asociadas se encuentran anonimizadas directamente por la entidad.
 
-**Ejemplo**
+
