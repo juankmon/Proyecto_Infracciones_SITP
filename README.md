@@ -9,3 +9,4 @@ Este proyecto se realiza mediante la metodología CRISP-DM, contiene un análisi
 ### Adjuntos
 
 * Modelado descriptivo en [Power BI](https://app.powerbi.com/links/hj1RNuENS-?ctid=299a2881-1380-4020-b42f-715a35e1bcaf&pbi_source=linkShare " Power BI").
+* [Bases de datos SITP](https://konradlorenzedu-my.sharepoint.com/:f:/g/personal/juanc_moralesm_konradlorenz_edu_co/Ek7074TpYstMvPiulldxAK8B6JIIuaEA5lprIU-13JUi6w?e=EhU5c3 " Bases SITP").
